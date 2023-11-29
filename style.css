@@ -93,11 +93,7 @@ h1{
     color: #23272e;
     padding: 5px;
 }
-@media (max-width:767px) {
-    .container{
-        display: block;
-        height: 100vh;
-    }
+@media (max-width:767px) {
     .find-number{
         margin: 0 auto;
     }
