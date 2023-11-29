@@ -96,8 +96,13 @@ h1{
 @media (max-width:767px) {
     .container{
         display: block;
-        height: auto;
+        height: 100vh;
     }
+    .find-number{
+        margin: 0 auto;
+    }
+}
+@media (max-width:300px){
     .find-number{
         width: 100%;
     }
